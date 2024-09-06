@@ -1,0 +1,16 @@
+## Interface: 40400
+## Title: Voodoo |cFF9ACD32Casting|r Bar
+## Notes: |cFFF0E68CMake some |cFF9ACD32Voodoo|r to the default Casting Bars|r!
+## DefaultState: enabled
+## SavedVariables: VCBcProfile VCBcNumber VCBcCounterLoading VCBcCounterDeleting
+## SavedVariablesPerCharacter: VCBcPlayer VCBcTarget VCBcFocus
+## Version: 1.05
+## Author: The_Indolent
+## X-Website: https://panosanastasiou.rocks/
+
+VCB_Virtuals.xml
+VCB_Zlave.xml
+VCB_Player.lua
+VCB_Options_0.xml
+VCB_Options_1.xml
+VCB_Options_4.xml
