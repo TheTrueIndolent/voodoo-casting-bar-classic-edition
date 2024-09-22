@@ -4,7 +4,7 @@
 ## DefaultState: enabled
 ## SavedVariables: VCBcProfile VCBcNumber VCBcCounterLoading VCBcCounterDeleting
 ## SavedVariablesPerCharacter: VCBcPlayer VCBcTarget VCBcFocus
-## Version: 1.05
+## Version: 1.06
 ## Author: The_Indolent
 ## X-Website: https://panosanastasiou.rocks/
 
